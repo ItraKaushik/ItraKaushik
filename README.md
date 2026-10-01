@@ -8,7 +8,7 @@ Building. Learning. Exploring. 🚀
 <p align="center">
   <a href="#">Portfolio</a> •
   <a href="http://www.linkedin.com/in/aarti-kaushik-ab2b64434">LinkedIn</a> •
-  <a href="">Email</a>
+  <a href="mailto:aartijks07@gmail.com">Email</a>
 </p>
 
 ---
