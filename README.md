@@ -13,7 +13,7 @@ Building. Learning. Exploring. 🚀
 
 ---
 
-## whoami
+## Who am I
 
 I'm an aspiring developer with a strong interest in technology,
 problem solving and continuous learning.
