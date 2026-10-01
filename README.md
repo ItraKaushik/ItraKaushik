@@ -1,4 +1,31 @@
-## Hi there 👋
+
+<h1 align="center">Hi, I'm Aarti 👋</h1>
+
+<h3 align="center">
+Building. Learning. Exploring. 🚀
+</h3>
+
+<p align="center">
+  <a href="#">Portfolio</a> •
+  <a href="http://www.linkedin.com/in/aarti-kaushik-ab2b64434">LinkedIn</a> •
+  <a href="">Email</a>
+</p>
+
+---
+
+## whoami
+
+I'm an aspiring developer with a strong interest in technology,
+problem solving and continuous learning.
+
+Currently exploring:
+
+- 💻 Software Development
+- 🧠 AI & Machine Learning
+- 🧩 Data Structures & Algorithms
+- 🌐 Web Development
+- 🚀 Real-world Projects
+- 🌱 Open Source & Continuous Learning
 
 <!--
 **ItraKaushik/ItraKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
